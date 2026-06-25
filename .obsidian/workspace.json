@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "38d166277a38293e",
+    "type": "split",
+    "children": [
+      {
+        "id": "803db9eb35dfa92c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3792e8b2d31c6e94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_OS/Linux_Command.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux_Command"
+            }
+          },
+          {
+            "id": "9abd53e6ccf4b945",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "무제.base",
+                "viewName": "표"
+              },
+              "icon": "lucide-table",
+              "title": "무제"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea8f989bbdab1cd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd46f146a32be5a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b0186e5826e816c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "e56ea6ea37c6fa8a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "7a02f889f90444a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 216.5
+  },
+  "right": {
+    "id": "a25bb18029e91dbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d65c12c02ec185a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4499b418e157d4fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "9ecb862150bde416",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "d58a90b48efec6c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "549a6ee94cd66dcd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "64a877bb71917586",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2026-06-08.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2026-06-08 의 개요"
+            }
+          },
+          {
+            "id": "8e662d5827fd4573",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "631d773befaf2518",
+            "type": "leaf",
+            "state": {
+              "type": "github-issue-controls-view",
+              "state": {},
+              "icon": "github",
+              "title": "Github Issue Controls"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false,
+      "githobs:Manage a github issue": false
+    }
+  },
+  "active": "631d773befaf2518",
+  "lastOpenFiles": [
+    "README.md",
+    "무제.base",
+    "00_OS/무제.md",
+    "00_OS/Linux_Command.md",
+    "03_Cloud",
+    "02_DataBase",
+    "00_OS",
+    "01_Network",
+    "00_OS/00_Linux",
+    "환영합니다!.md",
+    "create a link.md",
+    "2026-06-08.md",
+    "무제 1.base",
+    "무제.canvas",
+    "무제 1.canvas"
+  ]
+}

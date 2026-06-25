@@ -1,0 +1,24 @@
+- id 
+- pwd
+- ls 
+- cd
+- mkdir
+- touch
+- mv
+- rm
+- cat
+- file
+- echo
+- cp
+- grep
+- find
+-  man
+- curl
+
+- wild card
+	- ? 
+	- \* 
+	- \[ ]
+- > & >>
+- <
+- pipe ( | )
